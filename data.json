@@ -1,0 +1,40 @@
+{
+   "data":[
+      {
+         "id":0,
+         "name":"Using multiple computed properties to form a SwiftUI view's body",
+         "url":"https://www.swiftbysundell.com/articles/using-multiple-computed-properties-to-form-a-swiftui-view-body/",
+         "imageURL":"https://www.swiftbysundell.com/images/logo.png"
+      },
+      {
+         "id":1,
+         "name":"#swift stories",
+         "url":"https://hackernoon.com/tagged/swift",
+         "imageURL":"https://hackernoon.com/hn-logo.png"
+      },
+      {
+         "id":2,
+         "name":"Hackernoon",
+         "url":"https://stackoverflow.com/questions/tagged/ios+swiftui",
+         "imageURL":"https://hackernoon.com/hn-logo.png"
+      },
+      {
+         "id":3,
+         "name":"SwiftUI tips and tricks",
+         "url":"https://www.hackingwithswift.com/quick-start/swiftui/swiftui-tips-and-tricks",
+         "imageURL":"https://www.hackingwithswift.com/img/logo-curves.svg"
+      },
+      {
+         "id":4,
+         "name":"Image View",
+         "url":"https://designcode.io/swiftui-handbook-image-view",
+         "imageUR":"https://designcode.io/images/logos/logo.svg"
+      },
+      {
+         "id":5,
+         "name":"SwiftUI по полочкам",
+         "url":"https://habr.com/ru/post/485548/",
+         "imageURL":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRj_LuH8lXSUxwm4diw5eTBSaE07qWK1zoN-AGM9Y-8TFWALAjBnObQdu8yCf__gnCA9yM&usqp=CAU"
+      }
+   ]
+}

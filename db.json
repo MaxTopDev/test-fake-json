@@ -1,22 +1,40 @@
 {
-   "content":[
+   "data":[
       {
-         "texts":[
-            "Lorem ipsum dolor sit amet",
-            "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed vehicula orci ligula, sed sodales felis cursus eget. Donec in magna a velit bibendum consectetur non elementum dolor. Nulla ullamcorper, magna quis vulputate mollis, ipsum odio hendrerit ex, id iaculis nibh purus tristique risus.",
-            "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed vehicula orci ligula, sed sodales felis cursus eget. Donec in magna a velit bibendum consectetur non elementum dolor. Nulla ullamcorper, magna quis vulputate mollis, ipsum odio hendrerit ex, id iaculis nibh purus tristique risus. Curabitur consequat et est vitae ultricies. Curabitur nunc justo, finibus eu libero ut, consequat aliquet massa. Suspendisse eu tortor blandit, sagittis turpis eu, accumsan nulla. Nullam sagittis, tortor finibus lacinia ullamcorper, nisi libero vestibulum urna, eu venenatis mauris leo fringilla dolor."
-         ],
-         "sectionTitle":"Texts"
+         "id":0,
+         "name":"Using multiple computed properties to form a SwiftUI view's body",
+         "url":"https://www.swiftbysundell.com/articles/using-multiple-computed-properties-to-form-a-swiftui-view-body/",
+         "imageURL":"https://www.swiftbysundell.com/images/logo.png"
       },
       {
-         "images":[
-            "https://wallpapercave.com/wp/wp2562825.jpg",
-            "https://img.rawpixel.com/s3fs-private/rawpixel_images/website_content/rm21-background-tong-058.jpg?w=800&dpr=1&fit=default&crop=default&q=65&vib=3&con=3&usm=15&bg=F4F4F3&ixlib=js-2.2.1&s=710a6fed5b1923da8d5f95191839ef8a",
-            "https://1stwebdesigner.com/wp-content/uploads/2019/07/css-background-effects-thumb.jpg",
-            "https://i.pinimg.com/736x/5b/fd/37/5bfd379ca788a0f32aeb3b3f88c12f97.jpg",
-            "https://images.all-free-download.com/images/graphicthumb/blue_abstract_background_310971.jpg"
-         ],
-         "sectionTitle":"Images"
+         "id":1,
+         "name":"#swift stories",
+         "url":"https://hackernoon.com/tagged/swift",
+         "imageURL":"https://hackernoon.com/hn-logo.png"
+      },
+      {
+         "id":2,
+         "name":"Hackernoon",
+         "url":"https://stackoverflow.com/questions/tagged/ios+swiftui",
+         "imageURL":"https://hackernoon.com/hn-logo.png"
+      },
+      {
+         "id":3,
+         "name":"SwiftUI tips and tricks",
+         "url":"https://www.hackingwithswift.com/quick-start/swiftui/swiftui-tips-and-tricks",
+         "imageURL":"https://www.hackingwithswift.com/img/logo-curves.svg"
+      },
+      {
+         "id":4,
+         "name":"Image View",
+         "url":"https://designcode.io/swiftui-handbook-image-view",
+         "imageUR":"https://designcode.io/images/logos/logo.svg"
+      },
+      {
+         "id":5,
+         "name":"SwiftUI по полочкам",
+         "url":"https://habr.com/ru/post/485548/",
+         "imageURL":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRj_LuH8lXSUxwm4diw5eTBSaE07qWK1zoN-AGM9Y-8TFWALAjBnObQdu8yCf__gnCA9yM&usqp=CAU"
       }
    ]
 }

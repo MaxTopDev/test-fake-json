@@ -1,0 +1,24 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appID": "BFQMRSU47T.com.clearpathgps.appv3",
+        "paths": ["/web/auth/update-password", "/web/auth/update-password/"]
+      },
+      {
+        "appIDs": ["BFQMRSU47T.com.clearpathgps.appv3"],
+        "components": [
+          {
+            "/": "/web/auth/update-password",
+            "comment": "Matches any URL whose path starts with /web/auth/update-password"
+          },
+          {
+            "/": "/web/auth/update-password/",
+            "comment": "Matches any URL whose path starts with /web/auth/update-password/"
+          },
+        ]
+      }
+    ]
+  }
+}
